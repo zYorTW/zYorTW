@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yorland 👋
 
-<!--
-**zYorTW/zYorTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of what I build starts with a problem I want to solve or something new I want to learn. Recently, that's meant building web applications and exploring how machine learning can make information more useful. Here are a few of the projects I've been working on.
 
-Here are some ideas to get you started:
+🧪 **[Liba](https://github.com/zYorTW/Gestion-de-Insumos-del-Laboratorio)** — a laboratory management system for tracking supplies, inventory, equipment, and the day-to-day workflow of a laboratory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚲 **[Bike Store](https://github.com/zYorTW/Bike-Store---Completo)** — a full-stack bicycle store management system with inventory, sales, administration, and customer management.
+
+📚 **[Essay Recommender](https://github.com/zYorTW/Recomendador-de-ensayos)** — a machine learning recommendation system that suggests essays based on their content and similarity.
+
+### Currently
+
+📊 Learning more about data analytics and predictive models.
+
+⚙️ Building software with Angular, Node.js, Python, and MySQL.
+
+### More
+
+* **[Projects](https://github.com/zYorTW?tab=repositories)**
+* **[LinkedIn](https://www.linkedin.com/in/yorland-insignares/)**
