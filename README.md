@@ -17,4 +17,4 @@ Most of what I build starts with a problem I want to solve or something new I wa
 ### More
 
 * **[Projects](https://github.com/zYorTW?tab=repositories)**
-* **[LinkedIn](https://www.linkedin.com/in/yorland-insignares/)**
+* **[LinkedIn](https://www.linkedin.com/in/yorland-insignares-escorcia-778a94305/)**
