@@ -1,20 +1,22 @@
-# Hi, I'm Yorland 👋
+# Hola, soy Yorland 👋
 
-Most of what I build starts with a problem I want to solve or something new I want to learn. Recently, that's meant building web applications and exploring how machine learning can make information more useful. Here are a few of the projects I've been working on.
+La mayoría de lo que construyo nace de un problema que quiero resolver o algo nuevo que quiero aprender. Últimamente eso ha significado construir aplicaciones web y explorar cómo el machine learning puede hacer más útil la información. Estos son algunos de los proyectos en los que he estado trabajando.
 
-🧪 **[Liba](https://github.com/zYorTW/Gestion-de-Insumos-del-Laboratorio)** — a laboratory management system for tracking supplies, inventory, equipment, and the day-to-day workflow of a laboratory.
+🧪 **[LIBA](https://github.com/zYorTW/gestion-insumos-laboratorio)** — sistema de gestión de laboratorio para el control de insumos, inventario, equipos y el flujo de trabajo diario de un laboratorio.
 
-🚲 **[Bike Store](https://github.com/zYorTW/Bike-Store---Completo)** — a full-stack bicycle store management system with inventory, sales, administration, and customer management.
+🚲 **[Bike Store](https://github.com/zYorTW/bike-store)** — sistema full-stack de gestión para una tienda de bicicletas, con inventario, ventas, administración y gestión de clientes.
 
-📚 **[Essay Recommender](https://github.com/zYorTW/Recomendador-de-ensayos)** — a machine learning recommendation system that suggests essays based on their content and similarity.
+🧬 **[Recomendador de Ensayos](https://github.com/zYorTW/recomendador-de-ensayos)** — sistema de machine learning que recomienda y rankea parámetros de ensayos de fermentación de laboratorio a partir de datos históricos.
 
-### Currently
+🔐 **[Consultas Dinámicas SQL con QR](https://github.com/zYorTW/consultas-sql-solo-lectura-qr)** — app de escritorio para ejecutar consultas SQL de solo lectura configurables, con generación de código QR a partir del resultado.
 
-📊 Learning more about data analytics and predictive models.
+### Actualmente
 
-⚙️ Building software with Angular, Node.js, Python, and MySQL.
+📊 Aprendiendo más sobre analítica de datos y modelos predictivos.
 
-### More
+⚙️ Construyendo software con Angular, Node.js, Python y MySQL.
 
-* **[Projects](https://github.com/zYorTW?tab=repositories)**
+### Más
+
+* **[Proyectos](https://github.com/zYorTW?tab=repositories)**
 * **[LinkedIn](https://www.linkedin.com/in/yorland-insignares-escorcia-778a94305/)**
